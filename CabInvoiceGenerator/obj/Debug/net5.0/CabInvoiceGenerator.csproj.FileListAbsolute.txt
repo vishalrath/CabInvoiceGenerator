@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net5.0\CabInvoiceGenerator.exe
+C:\Users\Vishal\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net5.0\CabInvoiceGenerator.deps.json
+C:\Users\Vishal\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net5.0\CabInvoiceGenerator.runtimeconfig.json
+C:\Users\Vishal\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net5.0\CabInvoiceGenerator.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net5.0\CabInvoiceGenerator.dll
+C:\Users\Vishal\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net5.0\ref\CabInvoiceGenerator.dll
+C:\Users\Vishal\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net5.0\CabInvoiceGenerator.pdb
+C:\Users\Vishal\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net5.0\CabInvoiceGenerator.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net5.0\CabInvoiceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net5.0\CabInvoiceGenerator.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net5.0\CabInvoiceGenerator.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net5.0\CabInvoiceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net5.0\CabInvoiceGenerator.dll
+C:\Users\Vishal\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net5.0\ref\CabInvoiceGenerator.dll
+C:\Users\Vishal\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net5.0\CabInvoiceGenerator.pdb
+C:\Users\Vishal\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net5.0\CabInvoiceGenerator.genruntimeconfig.cache
