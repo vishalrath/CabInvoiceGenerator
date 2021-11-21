@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\Uc3_Enhance_CabInvoicegenerator\Uc3_Enhance_CabInvoicegenerator\bin\Debug\net5.0\Uc3_Enhance_CabInvoicegenerator.exe
+C:\Users\Vishal\source\repos\Uc3_Enhance_CabInvoicegenerator\Uc3_Enhance_CabInvoicegenerator\bin\Debug\net5.0\Uc3_Enhance_CabInvoicegenerator.deps.json
+C:\Users\Vishal\source\repos\Uc3_Enhance_CabInvoicegenerator\Uc3_Enhance_CabInvoicegenerator\bin\Debug\net5.0\Uc3_Enhance_CabInvoicegenerator.runtimeconfig.json
+C:\Users\Vishal\source\repos\Uc3_Enhance_CabInvoicegenerator\Uc3_Enhance_CabInvoicegenerator\bin\Debug\net5.0\Uc3_Enhance_CabInvoicegenerator.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\Uc3_Enhance_CabInvoicegenerator\Uc3_Enhance_CabInvoicegenerator\bin\Debug\net5.0\Uc3_Enhance_CabInvoicegenerator.dll
+C:\Users\Vishal\source\repos\Uc3_Enhance_CabInvoicegenerator\Uc3_Enhance_CabInvoicegenerator\bin\Debug\net5.0\ref\Uc3_Enhance_CabInvoicegenerator.dll
+C:\Users\Vishal\source\repos\Uc3_Enhance_CabInvoicegenerator\Uc3_Enhance_CabInvoicegenerator\bin\Debug\net5.0\Uc3_Enhance_CabInvoicegenerator.pdb
+C:\Users\Vishal\source\repos\Uc3_Enhance_CabInvoicegenerator\Uc3_Enhance_CabInvoicegenerator\obj\Debug\net5.0\Uc3_Enhance_CabInvoicegenerator.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\Uc3_Enhance_CabInvoicegenerator\Uc3_Enhance_CabInvoicegenerator\obj\Debug\net5.0\Uc3_Enhance_CabInvoicegenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\Uc3_Enhance_CabInvoicegenerator\Uc3_Enhance_CabInvoicegenerator\obj\Debug\net5.0\Uc3_Enhance_CabInvoicegenerator.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\Uc3_Enhance_CabInvoicegenerator\Uc3_Enhance_CabInvoicegenerator\obj\Debug\net5.0\Uc3_Enhance_CabInvoicegenerator.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\Uc3_Enhance_CabInvoicegenerator\Uc3_Enhance_CabInvoicegenerator\obj\Debug\net5.0\Uc3_Enhance_CabInvoicegenerator.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\Uc3_Enhance_CabInvoicegenerator\Uc3_Enhance_CabInvoicegenerator\obj\Debug\net5.0\Uc3_Enhance_CabInvoicegenerator.dll
+C:\Users\Vishal\source\repos\Uc3_Enhance_CabInvoicegenerator\Uc3_Enhance_CabInvoicegenerator\obj\Debug\net5.0\ref\Uc3_Enhance_CabInvoicegenerator.dll
+C:\Users\Vishal\source\repos\Uc3_Enhance_CabInvoicegenerator\Uc3_Enhance_CabInvoicegenerator\obj\Debug\net5.0\Uc3_Enhance_CabInvoicegenerator.pdb
+C:\Users\Vishal\source\repos\Uc3_Enhance_CabInvoicegenerator\Uc3_Enhance_CabInvoicegenerator\obj\Debug\net5.0\Uc3_Enhance_CabInvoicegenerator.genruntimeconfig.cache
